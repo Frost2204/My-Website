@@ -1,0 +1,109 @@
+body{
+    font-family:Ink Free ;
+    background-color: #bdece0;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;    
+}
+
+.hrbody{
+    border-color: rgb(112, 163, 99);
+    width: 30%;
+    border-style: dotted none none;
+    border-width: 7px;
+}
+
+#headhr{
+    border-color: rgb(112, 163, 99);
+
+}
+ .bunny{
+    position: relative;
+    width: 450px;
+    left: 20px;
+    top: 20px;
+ }
+
+.aboutme{
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    display: inline-block;
+    bottom: 60px;
+}
+
+
+.c{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color:green;
+    margin-left:30%;
+    font-size: 90px;
+
+}
+
+.h{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color:green;
+
+}
+
+.s{
+    font-size: 50px;   
+    font-style: italic;
+}
+
+.ppic{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.profilr{
+    position: relative;
+    margin-left: 20px;
+    
+}
+
+.table{
+    border-style: dotted;
+    border-spacing: 10px;
+    border-collapse: separate;
+    border-color: rgb(112, 163, 99);
+    border-width: 9px;
+    position: relative;
+    left: 150px;
+}
+
+.space{
+    padding-right: 300px;
+}
+
+
+.h:hover {
+    color: rgb(247, 9, 9);
+  }
+  
+
+.con0{
+    position: relative;
+    left: 30px;
+}
+.con1{
+    position: relative;
+    left: 60px;
+}
+
+.con2{
+    position: relative;
+    left: 90px;
+}
+.con3{
+    position: relative;
+    left: 120px;
+}
+
+.tc{
+    position: relative;
+    left: 300px;
+}
