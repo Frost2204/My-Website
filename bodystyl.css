@@ -23,14 +23,19 @@ body{
     height: 350px;
     left: 20px;
     top: 20px;
+    padding: 16px;
  }
 
 .aboutme{
     font-size: 30px;
     width: 400px;
     position: relative;
-    display: inline-block;
-    bottom: 60px;
+    padding: 16px;
+}
+
+.aboutt{
+    text-align: center;
+    margin: auto;
 }
 
 
@@ -61,8 +66,8 @@ body{
 }
 
 .profilr{
-    position: relative;
-    margin-left: 20px;
+    text-align: center;
+    margin: auto;
     
 }
 
