@@ -73,11 +73,16 @@ body{
     border-color: rgb(112, 163, 99);
     border-width: 9px;
     position: relative;
-    left: 150px;
+    text-align: center;
+    margin: auto;
 }
 
 .space{
     padding-right: 300px;
+}
+
+.music{
+    width: 520px;
 }
 
 
@@ -86,25 +91,24 @@ body{
   }
   
 
+.tc{
+    margin: auto;
+    text-align: center;
+}
+
 .con0{
-    position: relative;
-    left: 30px;
+    padding: 16px;
 }
 .con1{
-    position: relative;
-    left: 60px;
+    padding: 16px;
+   
 }
 
 .con2{
-    position: relative;
-    left: 90px;
+    padding: 16px;
+
 }
 .con3{
-    position: relative;
-    left: 120px;
-}
+    padding: 16px;
 
-.tc{
-    position: relative;
-    left: 300px;
 }
