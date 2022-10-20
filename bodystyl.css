@@ -71,6 +71,11 @@ body{
     
 }
 
+.project{
+    margin: auto;
+    text-align: center;
+}
+
 .table{
     border-style: dotted;
     border-spacing: 10px;
@@ -116,4 +121,9 @@ body{
 .con3{
     padding: 16px;
 
+}
+
+.forspace{
+    padding-left: 16px;
+    padding-right: 16px;
 }
