@@ -1,6 +1,6 @@
 body{
     font-family:Ink Free ;
-    background-color: #bdece1;
+    background-color: #222831;
 
     text-align: center;    
 }
@@ -18,7 +18,7 @@ body{
 }
 
 #music{
-    background-image: url("https://media.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif");
+    background-image: url("https://media.giphy.com/media/gBO37K8rJwnxS/giphy.gif");
     border-top-right-radius:100px;
     border-top-left-radius:100px;
     border-bottom-right-radius:100px;
@@ -49,7 +49,7 @@ body{
 .c{
     font-family:'Courier New', Courier, monospace;
     font-weight: bolder;
-    color:green;
+    color:#393E46;
     font-size: 90px;
 
 }
@@ -57,7 +57,7 @@ body{
 .h{
     font-family:'Courier New', Courier, monospace;
     font-weight: bolder;
-    color:green;
+    color:#393E46;
 
 }
 
@@ -106,7 +106,7 @@ body{
 }
 
 .space{
-    padding-right: 300px;
+    padding-right: 0px;
 }
 
 .music{
@@ -151,26 +151,29 @@ body{
 }
 
 #contact{
-    background-color: rgb(226, 200, 145);
+    background-color: #EEEEEE;
     border-top-right-radius:400px;
     border-top-left-radius:400px;
     border-bottom-right-radius:15px;
     border-bottom-left-radius:15px;
 }
 
-
 .info{
     font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
 }
 
 .custom-div{
-    background-color: rgb(226, 200, 145);
+    background-color: #00ADB5;
+    border-top-right-radius:0px;
     border-top-left-radius:400px;
     border-bottom-right-radius:400px;
+    border-bottom-left-radius:00px;
 }
 
 .custom-div2{
-    background-color: rgb(33, 189, 98);
+    background-color: #EEEEEE;
     border-top-right-radius:400px;
+    border-top-left-radius:0px;
+    border-bottom-right-radius:0px;
     border-bottom-left-radius:400px;
 }
