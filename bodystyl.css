@@ -16,6 +16,14 @@ body{
     border-color: rgb(204, 129, 24);
 
 }
+
+#music{
+    background-image: url("https://media.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif");
+    border-top-right-radius:100px;
+    border-top-left-radius:100px;
+    border-bottom-right-radius:100px;
+    border-bottom-left-radius:100px;
+}
  .bunny{
     position: relative;
     width: 400px;
@@ -59,7 +67,7 @@ body{
 }
 
 .ppic{
-    margin-top: 0px;
+    margin-top: 15px;
     margin-left: 0px;
     padding-left: 0px;
     width: 30em;
@@ -87,7 +95,7 @@ body{
 }
 
 .table{
-    border-style: dotted;
+    border-style:none;
     border-spacing: 10px;
     border-collapse: separate;
     border-color: rgb(112, 163, 99);
@@ -140,4 +148,32 @@ body{
 
 .div1{
     padding-bottom: 20px;
+}
+
+#contact{
+    background-color: rgb(226, 200, 145);
+    border-top-right-radius:400px;
+    border-top-left-radius:400px;
+    border-bottom-right-radius:15px;
+    border-bottom-left-radius:15px;
+}
+
+.info{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+.custom-div{
+    background-color: rgb(226, 200, 145);
+    border-top-right-radius:100px;
+    border-top-left-radius:100px;
+    border-bottom-right-radius:100px;
+    border-bottom-left-radius:100px;
+}
+
+.custom-div2{
+    background-color: rgb(33, 189, 98);
+    border-top-right-radius:100px;
+    border-top-left-radius:100px;
+    border-bottom-right-radius:100px;
+    border-bottom-left-radius:100px;
 }
