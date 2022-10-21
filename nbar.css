@@ -1,6 +1,11 @@
 /* Add a black background color to the top navigation */
 .topnav{
     overflow: hidden;
+    background-color: rgb(226, 200, 145);
+    border-top-right-radius:15px;
+    border-top-left-radius:15px;
+    border-bottom-right-radius:30px;
+    border-bottom-left-radius:30px;
   }
   
   /* Style the links inside the navigation bar */
@@ -24,13 +29,13 @@
   }
   .topnav a.right{
     float: right;
-    padding-top: 25px;
+    padding-top: 20px;
     padding-bottom: 0px;
     padding-right: 20px;
     }
 
 .active{
-  padding-top: 0px;
+  padding-top: 5px;
   padding-bottom: 0px;
   padding-left: 10px;
 }
