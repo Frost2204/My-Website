@@ -165,16 +165,12 @@ body{
 
 .custom-div{
     background-color: rgb(226, 200, 145);
-    border-top-right-radius:0px;
     border-top-left-radius:400px;
     border-bottom-right-radius:400px;
-    border-bottom-left-radius:00px;
 }
 
 .custom-div2{
     background-color: rgb(33, 189, 98);
     border-top-right-radius:400px;
-    border-top-left-radius:0px;
-    border-bottom-right-radius:0px;
     border-bottom-left-radius:400px;
 }
